@@ -9,7 +9,7 @@ title: Phos & Kin Privacy Policy
 
 # Phos & Kin Privacy Policy
 
-**Effective date:** September 26, 2026
+**Effective date:** September 26, 2026 · **Last updated:** October 18, 2026
 
 Phos & Kin ("the app") is made by Sustain Digital ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
 
@@ -18,7 +18,7 @@ Phos & Kin ("the app") is made by Sustain Digital ("we", "us"). This policy expl
 Nothing. The app:
 
 - has **no account** or sign-up
-- makes **no internet connections**, except the optional quote download described below, which only happens when you tap it
+- works **offline**. It only goes online for the two small requests described below, and sends nothing about you in either (purchases go through Google Play, see Purchases)
 - contains **no analytics, advertising or tracking** tools
 - does **not** sell or share any data, because it never has any
 
@@ -36,6 +36,14 @@ We cannot see this data. Uninstalling the app deletes it. It may be included in 
 ## Optional quote download
 
 In **Settings → Get New Quotes**, you can download the free Additional Set of quotes. Only then does the app connect to the internet, to fetch one file from GitHub Pages (`rufus-sam.github.io`). The app sends nothing about you with that request. Like any website, GitHub receives your device's IP address in order to deliver the file; see [GitHub's Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). The downloaded quotes are stored on your device, work offline, and can be removed in Settings at any time.
+
+## Festival date check
+
+Festival card packs open and close on their real dates. When you open the app (at most every 15 minutes), it makes one small request to the same GitHub Pages site (`rufus-sam.github.io`) and reads only the current date from the server's response, so your phone's clock never affects which packs are available. It sends nothing about you and downloads no content; as with any website, GitHub receives your device's IP address. If you're offline, nothing changes until the next time you connect.
+
+## Purchases
+
+Premium festival packs are sold through **Google Play**. Google handles the payment, and we never see your card, UPI or bank details. The app asks Google Play which packs your Google account has bought, so they unlock on your phone and are restored on a new one. We don't receive your name or email. Google handles purchases under the [Google Privacy Policy](https://policies.google.com/privacy) and the Google Play Terms of Service.
 
 ## Notifications
 
