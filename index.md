@@ -9,7 +9,7 @@ title: Phos & Kin Privacy Policy
 
 # Phos & Kin Privacy Policy
 
-**Effective date:** September 26, 2026 · **Last updated:** October 18, 2026
+**Effective date:** September 26, 2026 · **Last updated:** October 23, 2026
 
 Phos & Kin ("the app") is made by Sustain Digital ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
 
@@ -33,9 +33,9 @@ Anything you add or change is saved **only on your device**, in the app's privat
 
 We cannot see this data. Uninstalling the app deletes it. It may be included in your device's own backups (iCloud or Google), which Apple and Google handle under their own privacy policies.
 
-## Optional quote download
+## Language download
 
-In **Settings → Get New Quotes**, you can download the free Additional Set of quotes. Only then does the app connect to the internet, to fetch one file from GitHub Pages (`rufus-sam.github.io`). The app sends nothing about you with that request. Like any website, GitHub receives your device's IP address in order to deliver the file; see [GitHub's Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). The downloaded quotes are stored on your device, work offline, and can be removed in Settings at any time.
+English quotes and card messages are built into the app. When you choose another language, the app downloads that language's quotes once from GitHub Pages (`rufus-sam.github.io`) and then works offline. The app sends nothing about you with that request. Like any website, GitHub receives your device's IP address in order to deliver the file; see [GitHub's Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement). The downloaded quotes are stored only on your device.
 
 ## Festival date check
 
