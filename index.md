@@ -47,6 +47,10 @@ Festival card packs open and close on their real dates. When you open the app (a
 
 Premium festival packs are sold through **Google Play**. Google handles the payment, and we never see your card, UPI or bank details. The app asks Google Play which packs your Google account has bought, so they unlock on your phone and are restored on a new one. We don't receive your name or email. Google handles purchases under the [Google Privacy Policy](https://policies.google.com/privacy) and the Google Play Terms of Service.
 
+## Microphone and photos
+
+If you tap **Add a voice note** on a card, the app asks for permission to use the microphone, only then. If you tap **Add a photo**, you pick one with your device's photo picker, so the app never sees the rest of your gallery. The voice note and photo are kept only on your device, in temporary storage, and go only where **you** share the card. The app never uploads them.
+
 ## Notifications
 
 If you turn on reminders, the app asks for permission to send notifications. They are **local notifications**: your device schedules and shows them. No server is involved, and nothing is sent anywhere. You can turn them off in the app's Settings or in your device settings at any time.
