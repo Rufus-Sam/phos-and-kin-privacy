@@ -9,7 +9,7 @@ title: Phos & Kin Privacy Policy
 
 # Phos & Kin Privacy Policy
 
-**Effective date:** September 26, 2026 · **Last updated:** October 23, 2026
+**Effective date:** September 26, 2026 · **Last updated:** October 24, 2026
 
 Phos & Kin ("the app") is made by Sustain Digital ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
 
@@ -26,12 +26,14 @@ Nothing. The app:
 
 Anything you add or change is saved **only on your device**, in the app's private storage:
 
-- quotes you save to Favorites
-- occasions you add (names, dates, kind)
-- greeting-card text you save
-- your reminder settings
+- your name, if you enter one (for the greeting and to sign cards)
+- quotes and card messages you save to Favorites, and your collections
+- occasions you add (names, dates, kind, the people they're for)
+- your Things to Do list
+- cards you make yourself
+- your language, Read Aloud voice, theme and reminder settings
 
-We cannot see this data. Uninstalling the app deletes it. It may be included in your device's own backups (iCloud or Google), which Apple and Google handle under their own privacy policies.
+We cannot see this data. Your device's own backup (Google or iCloud) may include it, so it can come back if you reinstall the app or move to a new phone; Apple and Google handle those backups under their own privacy policies. To remove it for good, clear the app's storage in your device settings, or uninstall the app with backup turned off.
 
 ## Language download
 
