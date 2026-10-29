@@ -9,18 +9,19 @@ title: Phos & Kin Privacy Policy
 
 # Phos & Kin Privacy Policy
 
-**Effective date:** September 26, 2026 · **Last updated:** October 24, 2026
+**Effective date:** September 26, 2026 · **Last updated:** October 29, 2026
 
-Phos & Kin ("the app") is made by Sustain Digital ("we", "us"). This policy explains how the app handles your information. The short version: **it doesn't collect any.**
+Phos & Kin ("the app") is made by Sustain Digital ("we", "us"). This policy explains how the app handles your information. The short version: **we don't collect any. The only exception is an ad you choose to watch, which Google shows.**
 
 ## What the app collects
 
-Nothing. The app:
+We collect nothing. The app:
 
 - has **no account** or sign-up
 - works **offline**. It only goes online for the two small requests described below, and sends nothing about you in either (purchases go through Google Play, see Purchases)
-- contains **no analytics, advertising or tracking** tools
-- does **not** sell or share any data, because it never has any
+- contains **no analytics or tracking** tools
+- shows **no ads unless you choose to watch one** (see Ads)
+- does **not** sell or share any data, because we never have any
 
 ## What stays on your device
 
@@ -50,6 +51,16 @@ Premium festival packs are sold through **Google Play**. Google handles the paym
 ## Microphone and photos
 
 If you tap **Add a voice note** on a card, the app asks for permission to use the microphone, only then. If you tap **Add a photo**, you pick one with your device's photo picker, so the app never sees the rest of your gallery. The voice note and photo are kept only on your device, in temporary storage, and go only where **you** share the card. The app never uploads them.
+
+## Updates and ratings
+
+When you open the app, it asks Google Play whether a newer version is available, and if so offers to update. After you've used the app for a while, it may show Google Play's rating prompt, at most once every few months. Both are handled entirely by Google Play under the [Google Privacy Policy](https://policies.google.com/privacy); the app sends nothing about you to us.
+
+## Ads (only when you choose to watch one)
+
+On a festival pack's page you can choose to watch a short ad to try the pack for 15 minutes. No ad ever plays unless you tap that button, and the app has no banners or pop-up ads.
+
+The ad is shown by **Google AdMob**. When you watch one, Google's ad service receives information from your device such as your device's advertising ID, IP address and general device details, to show the ad, measure it and prevent fraud, and it may use this to personalise ads where the law and your choices allow. If you're in the European Economic Area, the UK or Switzerland, Google asks for your consent first; you can change your choice any time in Settings → **Ad privacy choices**. You can also reset or delete your advertising ID in your phone's settings. Google handles this under the [Google Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites). We receive no information about you from Google's ads.
 
 ## Notifications
 
