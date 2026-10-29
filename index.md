@@ -58,7 +58,7 @@ When you open the app, it asks Google Play whether a newer version is available,
 
 ## Ads (only when you choose to watch one)
 
-On a festival pack's page you can choose to watch a short ad to try the pack for 15 minutes. No ad ever plays unless you tap that button, and the app has no banners or pop-up ads.
+On a festival pack's page you can choose to watch a short ad to try the pack for 5 minutes. No ad ever plays unless you tap that button, and the app has no banners or pop-up ads.
 
 The ad is shown by **Google AdMob**. When you watch one, Google's ad service receives information from your device such as your device's advertising ID, IP address and general device details, to show the ad, measure it and prevent fraud, and it may use this to personalise ads where the law and your choices allow. If you're in the European Economic Area, the UK or Switzerland, Google asks for your consent first; you can change your choice any time in Settings → **Ad privacy choices**. You can also reset or delete your advertising ID in your phone's settings. Google handles this under the [Google Privacy Policy](https://policies.google.com/privacy) and [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites). We receive no information about you from Google's ads.
 
