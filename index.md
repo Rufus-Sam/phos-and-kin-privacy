@@ -9,7 +9,7 @@ title: Phos & Kin Privacy Policy
 
 # Phos & Kin Privacy Policy
 
-**Effective date:** September 26, 2026 · **Last updated:** October 29, 2026
+**Effective date:** September 26, 2026 · **Last updated:** November 5, 2026
 
 Phos & Kin ("the app") is made by Small Light Studios ("we", "us"). This policy explains how the app handles your information. The short version: **we don't collect any. The only exception is an ad you choose to watch, which Google shows.**
 
@@ -80,4 +80,4 @@ If this policy ever changes, the updated version will be posted at this address 
 
 ## Contact
 
-Questions? Email **sam2001rufus@gmail.com**.
+Questions? Email **hello@smalllightstudios.com**.
